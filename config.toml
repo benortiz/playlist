@@ -1,0 +1,8 @@
+baseURL = "https://benortiz.github.io/playlist/"
+languageCode = "en-us"
+title = "Playlist JSON API"
+theme = "themeless"
+
+[outputs]
+  page = ["json"]
+  section = ["json"]

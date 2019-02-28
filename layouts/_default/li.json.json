@@ -1,0 +1,4 @@
+{
+    "collectionId": "{{ .Params.collectionId }}",
+    "tagId" : "{{ .Params.tagId }}"
+}
