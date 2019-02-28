@@ -15,5 +15,3 @@ fields:
   description: The URN from Google Music/Spotify
   config:
     required: true
-pages:
-- content/collection/bayside-bayside.md
