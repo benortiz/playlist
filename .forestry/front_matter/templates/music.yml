@@ -1,0 +1,17 @@
+---
+label: Music
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: tagId
+  label: Tag ID
+  description: The NFC Tag
+  config:
+    required: true
+- type: text
+  name: collectionId
+  label: Collection ID
+  description: The URN from Google Music/Spotify
+  config:
+    required: true
