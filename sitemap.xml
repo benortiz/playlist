@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://benortiz.github.io/playlist/collection/bayside-bayside/index.json</loc>
+    <lastmod>2019-02-28T03:40:41+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://benortiz.github.io/playlist/collection/oceans-ate-alaska-lost-isles/index.json</loc>
   </url>
   
@@ -13,11 +18,13 @@
   
   <url>
     <loc>https://benortiz.github.io/playlist/collection/index.json</loc>
+    <lastmod>2019-02-28T03:40:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://benortiz.github.io/playlist/</loc>
+    <lastmod>2019-02-28T03:40:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
