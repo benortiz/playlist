@@ -1,5 +1,5 @@
 ---
-collectionId: "abc"
-tagId: "123"
----
+collectionId: ThisIsACollection
+tagId: thisIsATag
 
+---
