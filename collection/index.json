@@ -1,14 +1,1 @@
-{
-    "data": 
-
-
-    
-    {
-    "collectionId": "abc",
-    "tagId" : "123"
-}
-
-
-
-
-}
+{"data":{"items":[{"collectionId":"ThisIsACollection","tagId":"thisIsATag"}]}}
