@@ -1,8 +1,7 @@
-{{ define "main" }}
-
-{{ range $index, $e := .Data.Pages }}
-    {{ if $index }}, {{ end }}
-    {{ .Render "li" }}
-{{ end }}
-
-{{end}}
+{{- .Scratch.Set "items" slice -}}
+{{- range .Pages -}}
+    {{- $.Scratch.Add "items" (dict "collectionId" .Params.collectionId "tagId" .Params.tagId) -}}
+{{- end -}}
+{{- .Scratch.SetInMap "data" "items" (.Scratch.Get "items") -}}
+{{- .Scratch.SetInMap "output" "data" (.Scratch.Get "data") -}}
+{{- .Scratch.Get "output" | jsonify -}}

@@ -4,5 +4,4 @@ title = "Playlist JSON API"
 theme = "themeless"
 
 [outputs]
-  page = ["json"]
   section = ["json"]
