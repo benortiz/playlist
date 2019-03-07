@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://benortiz.github.io/playlist/collection/summer-of-thoughts-the-republic-of-trees/</loc>
+    <lastmod>2019-03-07T06:21:16+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://benortiz.github.io/playlist/collection/lim-kim-simple-mind/</loc>
     <lastmod>2019-03-07T04:29:42+00:00</lastmod>
   </url>
@@ -18,13 +23,13 @@
   
   <url>
     <loc>https://benortiz.github.io/playlist/collection/index.json</loc>
-    <lastmod>2019-03-07T04:29:42+00:00</lastmod>
+    <lastmod>2019-03-07T06:21:16+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://benortiz.github.io/playlist/</loc>
-    <lastmod>2019-03-07T04:29:42+00:00</lastmod>
+    <lastmod>2019-03-07T06:21:16+00:00</lastmod>
     <priority>0</priority>
   </url>
   
