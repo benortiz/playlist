@@ -1,7 +1,6 @@
 ---
 label: Music
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: tagId
@@ -15,3 +14,5 @@ fields:
   description: The URN from Google Music/Spotify
   config:
     required: true
+pages:
+- content/collection/google-im-feeling-lucky.md
