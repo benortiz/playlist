@@ -15,6 +15,7 @@ fields:
   config:
     required: true
 pages:
+- content/collection/yaeji-ep2.md
 - content/collection/marian-hill-unusual.md
 - content/collection/valis-alps-valis-alps.md
 - content/collection/johnny-jewel-windswept.md
