@@ -15,5 +15,6 @@ fields:
   config:
     required: true
 pages:
-- content/collection/summer-of-thoughts-the-republic-of-trees.md
+- content/collection/marian-hill-unusual.md
 - content/collection/lim-kim-simple-mind.md
+- content/collection/summer-of-thoughts-the-republic-of-trees.md
